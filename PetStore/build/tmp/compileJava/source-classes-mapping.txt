@@ -1,0 +1,45 @@
+org/example/PetStore/model/bo/AdoptionAdoptersInputBO.java
+ org.example.PetStore.model.bo.AdoptionAdoptersInputBO
+org/example/PetStore/config/SdkBeanConfig.java
+ org.example.PetStore.config.SdkBeanConfig
+org/example/PetStore/model/bo/AdoptionLoginInputBO.java
+ org.example.PetStore.model.bo.AdoptionLoginInputBO
+org/example/PetStore/utils/IOUtil.java
+ org.example.PetStore.utils.IOUtil
+org/example/PetStore/service/AdoptionService.java
+ org.example.PetStore.service.AdoptionService
+org/example/PetStore/controller/UserController.java
+ org.example.PetStore.controller.UserController
+org/example/PetStore/controller/MyAdoptionController.java
+ org.example.PetStore.controller.MyAdoptionController
+org/example/PetStore/model/bo/AdoptionAdoptInputBO.java
+ org.example.PetStore.model.bo.AdoptionAdoptInputBO
+org/example/PetStore/model/CommonResponse.java
+ org.example.PetStore.model.CommonResponse
+org/example/PetStore/model/bo/AdoptionRegisterInputBO.java
+ org.example.PetStore.model.bo.AdoptionRegisterInputBO
+org/example/PetStore/raw/Adoption.java
+ Adoption
+ Adoption$1
+ Adoption$2
+ Adoption$3
+ Adoption$4
+ Adoption$5
+ Adoption$6
+ Adoption$7
+org/example/PetStore/config/SwaggerConfig.java
+ org.example.PetStore.config.SwaggerConfig
+org/example/PetStore/config/ContractConfig.java
+ org.example.PetStore.config.ContractConfig
+org/example/PetStore/utils/WeBASEUtils.java
+ org.example.PetStore.utils.WeBASEUtils
+org/example/PetStore/Application.java
+ org.example.PetStore.Application
+org/example/PetStore/service/MyAdoptionService.java
+ org.example.PetStore.service.MyAdoptionService
+org/example/PetStore/service/UserService.java
+ org.example.PetStore.service.UserService
+org/example/PetStore/service/ServiceManager.java
+ org.example.PetStore.service.ServiceManager
+org/example/PetStore/config/SystemConfig.java
+ org.example.PetStore.config.SystemConfig
